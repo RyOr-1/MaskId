@@ -1,0 +1,22 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+#break {
+    height: 90px;
+    background-color: white;
+}
+
+.footer {
+    background-color: wheat;
+    color: black;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+
+canvas {
+    margin-top: 140;
+}
